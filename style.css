@@ -1,0 +1,29 @@
+body {
+	background: white;
+}
+nav{
+	background: black;
+	color: white;
+	text-align: center;
+}
+nav ul li {
+	display: inline-block;
+margin: 10px;
+}
+
+h1{
+	background: green;
+	color: yellow;
+	font-family: 'Fascinate Inline', cursive;
+	font-size: 100px;
+}
+
+.halfPage {
+	width: 50%;
+}
+
+img {
+	width: 40%;
+	border: solid; 2px black;
+	border-radius: 20%;
+}
